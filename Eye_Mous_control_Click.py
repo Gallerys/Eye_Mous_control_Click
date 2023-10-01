@@ -1,3 +1,4 @@
+# Copyright © 1999 Gallerys.
 import imp
 import cv2
 import mediapipe as mp
